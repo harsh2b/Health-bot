@@ -3,6 +3,8 @@ sentence-transformers==3.4.1
 streamlit==1.32.0
 pypdf==5.1.0
 
+grpcio==1.70.0  # Explicit version for pinecone
+protobuf==4.25.6
 langchain_community==0.3.15
 langchain_experimental==0.3.4
 

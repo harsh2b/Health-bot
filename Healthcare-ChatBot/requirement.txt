@@ -1,0 +1,18 @@
+sentence-transformers==2.2.2
+langchain
+streamlit==1.32.0
+pypdf
+python-dotenv
+pinecone[grpc]
+langchain-pinecone
+langchain_community
+langchain_openai
+langchain_experimental
+langchain_groq
+huggingface_hub==0.14.1
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+
+requests==2.32.2
+- e.
